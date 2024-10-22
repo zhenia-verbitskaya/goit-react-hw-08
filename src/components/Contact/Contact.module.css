@@ -1,0 +1,31 @@
+.contactCard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 350px;
+  border: 2px solid purple;
+  color: purple;
+  padding: 12px 16px;
+  font-size: 18px;
+}
+
+.contactFields {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.contactField {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.contactBtn {
+  border: none;
+  background-color: purple;
+  color: thistle;
+  padding: 8px 16px;
+  font-family: inherit;
+  font-size: 18px;
+}

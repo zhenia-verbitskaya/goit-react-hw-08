@@ -1,0 +1,21 @@
+.searchBlock {
+  margin-bottom: 30px;
+}
+
+.searchTitle {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 20px;
+  color: purple;
+}
+
+.searchField {
+  width: 400px;
+  height: 40px;
+  border: 2px solid purple;
+  outline: none;
+  background-color: transparent;
+  color: purple;
+  padding: 10px;
+  font-size: 18px;
+}
